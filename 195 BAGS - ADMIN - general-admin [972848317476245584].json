@@ -1,0 +1,2650 @@
+{
+  "guild": {
+    "id": "972846267820572703",
+    "name": "195 BAGS",
+    "iconUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\8ff38f72f81a1221cad1f68e5ddd72d3-EE3BF.png"
+  },
+  "channel": {
+    "id": "972848317476245584",
+    "type": "GuildTextChat",
+    "categoryId": "972848239122481202",
+    "category": "ADMIN",
+    "name": "general-admin",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "980326355440914432",
+      "type": "Default",
+      "timestamp": "2022-05-29T04:26:56.72+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello all, next week there will be a FTI TC brief to update the instructors on the BWC/AGC progress chart.\n\nThis week a number of us have attended multiple MAs. All to go update status on both BWC Master Tracker and AVN Charts.\n\nWe will be having class during the brief timing so it will most probably be someone else presenting on our behalf so let's not inconvenient the person presenting on our behalf.\n\nPlease update esp. for the following:\n- COVID recovery upchit\n- PRK personnels to update on upchit/uppes/4POM dates and status\n- Dental FFI status (eg. Need to follow up with filling)\n- UWC personnel, if you missed FAP, go update the reason.",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980329516645879830",
+      "type": "Default",
+      "timestamp": "2022-05-29T04:39:30.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For dental FFI, do note that you will need to update on WTE if there are any changes in the status and add a remark to explain the situation\n\nGive a thumbs up to the above message if you are done updating the charts. Updates to be completed by 2100H today.",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 10
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "981491910751440916",
+      "type": "Default",
+      "timestamp": "2022-06-01T09:38:26.761+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://t.me/+SilaDHYXxw02MDk1",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AFTC Broadcast Channel",
+          "url": "https://t.me/+SilaDHYXxw02MDk1",
+          "timestamp": null,
+          "description": "Commanders' Emphasis and RSAF/AFTC level activities will be broadcasted.",
+          "thumbnail": {
+            "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\t_logo-125CE.png",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "981491966799904768",
+      "type": "Reply",
+      "timestamp": "2022-06-01T09:38:40.124+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "All to join tis tele grp asap. Reply when done",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 21
+        }
+      ],
+      "mentions": [],
+      "reference": {
+        "messageId": "981491910751440916",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "981541893122969630",
+      "type": "Reply",
+      "timestamp": "2022-06-01T12:57:03.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "expecting 32pax here by tonight 2200H",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "510401329009524746",
+          "name": "isxxcong",
+          "discriminator": "0447",
+          "nickname": "Isaac",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "981491966799904768",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "982478699557449788",
+      "type": "Default",
+      "timestamp": "2022-06-04T02:59:35.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Administrative instructions for AIR e-learning**\n\n1. Access the link below for detailed instructions for AIR e-lessons, course modules and survey link for each course module. It is a google drive.\nhttps://go.gov.sg/air-elearning-trainees\nTo complete in total **2 survey forms** at the end of AIR e-lessons\n\n2. Pre-TBTL survey\nBWC and UWC trainees have a **different link**.\nPlease do note that your answers for \"Section 1: That's Me!\" will be shared and discussed during the TBTL session.\n**Dateline **for pre-TBTL survey: **16 June**\n\n**For BWC trainees:**\nhttps://go.gov.sg/tbtl-bwc-survey\n\n**For UWC trainees:**\nhttps://go.gov.sg/tbtl-uwc-survey",
+      "author": {
+        "id": "420961655602675713",
+        "name": "lucasstann_lj",
+        "discriminator": "7093",
+        "nickname": "Lucas [Brief]",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\3-FB033.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "[For Trainees] AIR E-learning Modules - Google Drive",
+          "url": "https://go.gov.sg/air-elearning-trainees",
+          "timestamp": null,
+          "description": "To be disseminated to trainees for e-learning",
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "195 BWC Pre-Team Building Team Learning (TBTL) Workshop Survey",
+          "url": "https://go.gov.sg/tbtl-bwc-survey",
+          "timestamp": null,
+          "description": "This is a pre-workshop survey (~20mins) to help your course Psychologist (Ms Lim Yuhan) understand your course better. Some of what you write here will be brought up as discussion pointers during the workshop. Responses will only be seen by Ms Yuhan and will not be shared with anyone else outside195 BWC, so do be honest! Please complete the surv...",
+          "thumbnail": {
+            "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\PPt9HQN6lPGiJ1IhuM2pwsSllD7RZ1hIX_a8ke-SW_-9FD7D",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "61 UWC Pre-Team Building Team Learning (TBTL) Workshop Survey",
+          "url": "https://go.gov.sg/tbtl-uwc-survey",
+          "timestamp": null,
+          "description": "This is a pre-workshop survey (~20mins) to help your course Psychologist (Ms Janine Loi) understand your course better. Some of what you write here will be brought up as discussion pointers during the workshop. Responses will only be seen by Ms Janine and will not be shared with anyone else outside 61 UWC, so do be honest! Please complete the su...",
+          "thumbnail": {
+            "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1BR4xahviwPWlthJ9tKlE1bW9UxFAMdkN8K-YuL-WQ-F63A8",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 16
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "983572992044982282",
+      "type": "Reply",
+      "timestamp": "2022-06-07T03:27:55.206+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AIR lesson",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "420961655602675713",
+          "name": "lucasstann_lj",
+          "discriminator": "7093",
+          "nickname": "Lucas [Brief]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "982478699557449788",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "983615110251708447",
+      "type": "Reply",
+      "timestamp": "2022-06-07T06:15:16.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "guys, some feedback that you guys cannot load the video for AIR, try use your phone to access instead of your learnet laptop",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "420961655602675713",
+          "name": "lucasstann_lj",
+          "discriminator": "7093",
+          "nickname": "Lucas [Brief]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "982478699557449788",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "983623403535745094",
+      "type": "Default",
+      "timestamp": "2022-06-07T06:48:14.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for the course number, 195 BWC put 195 BWC, 61 UWC put 61 UWC",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "984017586050195507",
+      "type": "Default",
+      "timestamp": "2022-06-08T08:54:34.677+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@195 BWC next time when you guys send out emails concerning the course, pls CC me and liying so that we can facilitate and CRM.",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "984414444333436928",
+      "type": "Default",
+      "timestamp": "2022-06-09T11:11:33.065+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone please remember to update weekly brief attendance for tomorrow. Thanks \uD83D\uDE4F\uD83C\uDFFC",
+      "author": {
+        "id": "420961655602675713",
+        "name": "lucasstann_lj",
+        "discriminator": "7093",
+        "nickname": "Lucas [Brief]",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\3-FB033.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "985066747205939281",
+      "type": "Reply",
+      "timestamp": "2022-06-11T06:23:34.189+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Reminder to complete the survey forms, once completed update ‘195 BAGS MASTER’ - under ‘AIR SUBMISSION’. Thank you and have a great weekend ahead\uD83D\uDE2C!",
+      "author": {
+        "id": "535077404704636930",
+        "name": "Yeji Hwang",
+        "discriminator": "9475",
+        "nickname": "Mark [Admin 2]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\566fecf2747fec1251463170b2d69e16-D0883.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "420961655602675713",
+          "name": "lucasstann_lj",
+          "discriminator": "7093",
+          "nickname": "Lucas [Brief]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "982478699557449788",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "985438135095787550",
+      "type": "Default",
+      "timestamp": "2022-06-12T06:59:19.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Book in by 2150. See yall later \uD83D\uDE42",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "987957895289262091",
+      "type": "Default",
+      "timestamp": "2022-06-19T05:51:57.607+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Book in by 2200, timing will revert back to original starting tonight.\n\nLets maintain the book in discipline that has been upheld the past few weeks \uD83D\uDC4D\uD83C\uDFFB\n\nCya tonite",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0E",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f60e-04354.svg"
+          },
+          "count": 14
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "990496199683498024",
+      "type": "Default",
+      "timestamp": "2022-06-26T05:58:16.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Book in by 2200 \n\nCya in a few hrs\uD83D\uDC4D\uD83C\uDFFB",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "990496918062891048",
+      "type": "Default",
+      "timestamp": "2022-06-26T06:01:07.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello ladies and gents, this will be the grouping for map planning. Please take note \uD83D\uDE2C thanks",
+      "author": {
+        "id": "535077404704636930",
+        "name": "Yeji Hwang",
+        "discriminator": "9475",
+        "nickname": "Mark [Admin 2]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\566fecf2747fec1251463170b2d69e16-D0883.png"
+      },
+      "attachments": [
+        {
+          "id": "990496917853196309",
+          "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\IMG_5775-3C8F5.png",
+          "fileName": "IMG_5775.png",
+          "fileSizeBytes": 227357
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "990498495364472832",
+      "type": "Default",
+      "timestamp": "2022-06-26T06:07:23.867+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks mark \uD83D\uDCAA\uD83C\uDFFC",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "990948383365681173",
+      "type": "Default",
+      "timestamp": "2022-06-27T11:55:05.525+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "CLOSE CONTACTS:\n\nLTA ISAAC ONG\nOCT DARREL TAN\nOCT SAMUEL CHONG\nOCT LAI HAO ZHE\nOCT LIM XIN NENG\nOCT JOSHUA S/O BALACHANDRAN\nOCT LAU SHI SONG\nOCT DARRYN NGIAM\nOCT YANG YI ZHEN\n\nAll are to avoid these individuals and exercise precaution. During marching,meals,lessons,activities, all 9 of these close contacts will be grouped together.\n\nHence any activities requiring grouping this week, @Admin IC, pls help to standby necessary ammendments",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD88",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f988-B0A63.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "990954636867428403",
+      "type": "Default",
+      "timestamp": "2022-06-27T12:19:56.476+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Toilet cubicles and sinks have been marked w an ❌ for close contact personnels to use. \n\nTry your best to stick to your allocated common usage locations",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "990955928356548670",
+      "type": "Reply",
+      "timestamp": "2022-06-27T12:25:04.391+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [
+        {
+          "id": "990955928520118272",
+          "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\IMG-20220627-WA0006-01EB4.jpg",
+          "fileName": "IMG-20220627-WA0006.jpg",
+          "fileSizeBytes": 177147
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "510401329009524746",
+          "name": "isxxcong",
+          "discriminator": "0447",
+          "nickname": "Isaac",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "990948383365681173",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "990956071470383114",
+      "type": "Default",
+      "timestamp": "2022-06-27T12:25:38.512+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Revised seating arrangement from tmr onwards, close contact personnel to seat one seat away from the main body thanks!!",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "990956155197091860",
+      "type": "Default",
+      "timestamp": "2022-06-27T12:25:58.474+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yi hui and charlie, try to stay further away from us. If possible a 2m gap",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "990956375720984606",
+      "type": "Default",
+      "timestamp": "2022-06-27T12:26:51.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If possible, swap me and shi song, so if need to i can converse w JR easier",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "990956632638881822",
+      "type": "Reply",
+      "timestamp": "2022-06-27T12:27:52.305+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okok swap bei @shi song, take note yeah! \uD83D\uDC40",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "510401329009524746",
+          "name": "isxxcong",
+          "discriminator": "0447",
+          "nickname": "Isaac",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "990956375720984606",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "991098686505365585",
+      "type": "Reply",
+      "timestamp": "2022-06-27T21:52:20.586+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Reminder to take ART",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "990948383365681173",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "991291672103227434",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:39:11.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Guys anyone free to help take 9 x ART kits from AO for close contact folks? \uD83D\uDE4F",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991291873576632400",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:39:59.973+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@isxxcong ao still open?",
+      "author": {
+        "id": "194650288848764929",
+        "name": "[Rw]Joel",
+        "discriminator": "3285",
+        "nickname": "Joel",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\8a50003fad21536cc5ff2af47e488151-91912.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "510401329009524746",
+          "name": "isxxcong",
+          "discriminator": "0447",
+          "nickname": "Isaac",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "991292064186773594",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:40:45.418+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I dont think so, need to draw key to open it",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991292081131749427",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:40:49.458+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Same as last night",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991292119933272074",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:40:58.709+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cpt D only jus replied me",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991292194952577044",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:41:16.595+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can",
+      "author": {
+        "id": "255968036681416714",
+        "name": "howcher",
+        "discriminator": "3602",
+        "nickname": "hao zhe [PT/Asset]",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991292210416984094",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:41:20.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i’m still at ao",
+      "author": {
+        "id": "255968036681416714",
+        "name": "howcher",
+        "discriminator": "3602",
+        "nickname": "hao zhe [PT/Asset]",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991292332093747220",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:41:49.292+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "need to sign also right",
+      "author": {
+        "id": "255968036681416714",
+        "name": "howcher",
+        "discriminator": "3602",
+        "nickname": "hao zhe [PT/Asset]",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991292368479322192",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:41:57.967+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Positive",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991292379413876767",
+      "type": "Default",
+      "timestamp": "2022-06-28T10:42:00.574+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks henry",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991306233741070446",
+      "type": "Default",
+      "timestamp": "2022-06-28T11:37:03.703+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*REVISED* \nMap Grouping \nFirst person of each group will be assigned as the group leader. \nPlease take note thank you! \uD83D\uDE00",
+      "author": {
+        "id": "535077404704636930",
+        "name": "Yeji Hwang",
+        "discriminator": "9475",
+        "nickname": "Mark [Admin 2]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\566fecf2747fec1251463170b2d69e16-D0883.png"
+      },
+      "attachments": [
+        {
+          "id": "991306233355190282",
+          "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\IMG_5791-9B9E6.png",
+          "fileName": "IMG_5791.png",
+          "fileSizeBytes": 363179
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "991328253946110033",
+      "type": "Default",
+      "timestamp": "2022-06-28T13:04:33.729+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "everyone who needs ART kit got it right",
+      "author": {
+        "id": "255968036681416714",
+        "name": "howcher",
+        "discriminator": "3602",
+        "nickname": "hao zhe [PT/Asset]",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "991707832732880918",
+      "type": "Default",
+      "timestamp": "2022-06-29T14:12:52.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ christay @Cedric go update the comment for your IPPT in AVNcharts please thanks",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195269925483446272",
+          "name": "Cedric",
+          "discriminator": "4165",
+          "nickname": "Cedric",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "991708022583865384",
+      "type": "Default",
+      "timestamp": "2022-06-29T14:13:37.628+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@hyp3r_barcod3_07™ go double check whether the comment at your IPPT grade is correct",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "335781284548968448",
+          "name": "hyp3r_barcod3_07™",
+          "discriminator": "3533",
+          "nickname": "kenneth lim",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "991838388325994626",
+      "type": "Default",
+      "timestamp": "2022-06-29T22:51:39.243+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@close contacts, r u all negative for ART?",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "992309816997449839",
+      "type": "Default",
+      "timestamp": "2022-07-01T06:04:56.597+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@JR Close contacts: verify your ART results DAY 1 01/07/22: ❌ for neg, ✅ for pos",
+      "author": {
+        "id": "266924627186548747",
+        "name": "Chuarlie",
+        "discriminator": "3136",
+        "nickname": "Charlie",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\5e5038c1aa96d1017c54d271d0049c2c-801D7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❌",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\274c-DF6D0.svg"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "992318749476659210",
+      "type": "Default",
+      "timestamp": "2022-07-01T06:40:26.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dion Liong @meganchoo need you guys to submit soon as well, thanks",
+      "author": {
+        "id": "266924627186548747",
+        "name": "Chuarlie",
+        "discriminator": "3136",
+        "nickname": "Charlie",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\5e5038c1aa96d1017c54d271d0049c2c-801D7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "974242767209373696",
+          "name": "Dion Liong",
+          "discriminator": "4561",
+          "nickname": "Dion [PRK]",
+          "isBot": false
+        },
+        {
+          "id": "761617922447638629",
+          "name": "meganchoo",
+          "discriminator": "7912",
+          "nickname": "Megan [ACSM]",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "992319183159304244",
+      "type": "Reply",
+      "timestamp": "2022-07-01T06:42:09.664+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Megan took earlier, she was negative. Dion is close contact?",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266924627186548747",
+          "name": "Chuarlie",
+          "discriminator": "3136",
+          "nickname": "Charlie",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "992318749476659210",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "992319356665081868",
+      "type": "Default",
+      "timestamp": "2022-07-01T06:42:51.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry cancel last",
+      "author": {
+        "id": "266924627186548747",
+        "name": "Chuarlie",
+        "discriminator": "3136",
+        "nickname": "Charlie",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\5e5038c1aa96d1017c54d271d0049c2c-801D7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992319519236296765",
+      "type": "Reply",
+      "timestamp": "2022-07-01T06:43:29.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Am not",
+      "author": {
+        "id": "974242767209373696",
+        "name": "Dion Liong",
+        "discriminator": "4561",
+        "nickname": "Dion [PRK]",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\95df304aca5e8a830fc8955854e1e0c2-8B195.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "510401329009524746",
+          "name": "isxxcong",
+          "discriminator": "0447",
+          "nickname": "Isaac",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "992319183159304244",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "992656579331620884",
+      "type": "Default",
+      "timestamp": "2022-07-02T05:02:51.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "195269925483446272",
+        "name": "Cedric",
+        "discriminator": "4165",
+        "nickname": "Cedric",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\684040093c7d2150ffe2675733f701e5-0D255.png"
+      },
+      "attachments": [
+        {
+          "id": "992656579121913946",
+          "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\unknown-9AEB9.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 77509
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "992669709461889074",
+      "type": "Reply",
+      "timestamp": "2022-07-02T05:55:01.647+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There’s an indication saying that Close contacts who recovered from covid are “Not CC”, @Cedric can help verify what that means?",
+      "author": {
+        "id": "266924627186548747",
+        "name": "Chuarlie",
+        "discriminator": "3136",
+        "nickname": "Charlie",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\5e5038c1aa96d1017c54d271d0049c2c-801D7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195269925483446272",
+          "name": "Cedric",
+          "discriminator": "4165",
+          "nickname": "Cedric",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "992656579331620884",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "992672049136939069",
+      "type": "Reply",
+      "timestamp": "2022-07-02T06:04:19.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It means that if you have contracted covid before, you would not fall under close contact. No further actions required either",
+      "author": {
+        "id": "195269925483446272",
+        "name": "Cedric",
+        "discriminator": "4165",
+        "nickname": "Cedric",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\684040093c7d2150ffe2675733f701e5-0D255.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266924627186548747",
+          "name": "Chuarlie",
+          "discriminator": "3136",
+          "nickname": "Charlie",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "992669709461889074",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "992672160160153610",
+      "type": "Reply",
+      "timestamp": "2022-07-02T06:04:45.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Waitttt, means a lot of ppl wont be considered close contacts",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195269925483446272",
+          "name": "Cedric",
+          "discriminator": "4165",
+          "nickname": "Cedric",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "992672049136939069",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "992672195761426514",
+      "type": "Reply",
+      "timestamp": "2022-07-02T06:04:54.427+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Verified by tong wei?",
+      "author": {
+        "id": "266924627186548747",
+        "name": "Chuarlie",
+        "discriminator": "3136",
+        "nickname": "Charlie",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\5e5038c1aa96d1017c54d271d0049c2c-801D7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195269925483446272",
+          "name": "Cedric",
+          "discriminator": "4165",
+          "nickname": "Cedric",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "992672049136939069",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "992672222332325949",
+      "type": "Default",
+      "timestamp": "2022-07-02T06:05:00.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I recall this being a thing also",
+      "author": {
+        "id": "266924627186548747",
+        "name": "Chuarlie",
+        "discriminator": "3136",
+        "nickname": "Charlie",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\5e5038c1aa96d1017c54d271d0049c2c-801D7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992672693709197393",
+      "type": "Default",
+      "timestamp": "2022-07-02T06:06:53.147+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good day all,\n\nAs of today, the current JOI states that those who have already recovered from Covid previously shall not be considered as a close contact and therefore, need not serve the mandatory 5 days WFH. \n\nHowever, it is decided for AVN FLT that regardless of whether you’ve recovered from Covid or not, all personnel will have to serve the mandatory 5 days WFH as long as you’re a close contact(last contact <72hrs). This is to minimise the risk of transmission as there are new variants emerging.\n\nAny further inquiries, please contact us as follows:\nOCT LEE XU KANG DARYL 98265902\nOCT KOH TONG WEI 97160272\n \nThank you all and have a great weekend ahead!\n\n*~ Covid Committee*",
+      "author": {
+        "id": "195173449004613632",
+        "name": "Chan",
+        "discriminator": "7580",
+        "nickname": "Alex [CSM]",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\52de8dd5f30973c6c8c74d3cd2c21bd2-C495D.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-1f3fb-346B9.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "992673037554036757",
+      "type": "Default",
+      "timestamp": "2022-07-02T06:08:15.126+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks Alex",
+      "author": {
+        "id": "195269925483446272",
+        "name": "Cedric",
+        "discriminator": "4165",
+        "nickname": "Cedric",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\684040093c7d2150ffe2675733f701e5-0D255.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992673084656062555",
+      "type": "Reply",
+      "timestamp": "2022-07-02T06:08:26.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This states 5 mandatory WFH days, but in our case I take it we carry on as per usual",
+      "author": {
+        "id": "266924627186548747",
+        "name": "Chuarlie",
+        "discriminator": "3136",
+        "nickname": "Charlie",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\5e5038c1aa96d1017c54d271d0049c2c-801D7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195173449004613632",
+          "name": "Chan",
+          "discriminator": "7580",
+          "nickname": "Alex [CSM]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "992672693709197393",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "992676417999482981",
+      "type": "Reply",
+      "timestamp": "2022-07-02T06:21:41.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yup but if WFH still applies then I presume that recovered personnel still count as close contacts",
+      "author": {
+        "id": "195173449004613632",
+        "name": "Chan",
+        "discriminator": "7580",
+        "nickname": "Alex [CSM]",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\52de8dd5f30973c6c8c74d3cd2c21bd2-C495D.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266924627186548747",
+          "name": "Chuarlie",
+          "discriminator": "3136",
+          "nickname": "Charlie",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "992673084656062555",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "993100190053568512",
+      "type": "Default",
+      "timestamp": "2022-07-03T10:25:36.218+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Book in by 2200. \n\nDont be late, have a good bookin and week ahead everybody ❤️",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 9
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "993298926734151710",
+      "type": "Default",
+      "timestamp": "2022-07-03T23:35:18.735+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@[Rw]Joel i need u to take an ART asap and update me. Since u r CC w SS",
+      "author": {
+        "id": "510401329009524746",
+        "name": "isxxcong",
+        "discriminator": "0447",
+        "nickname": "Isaac",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\b5c35c2fb319d6bca2681cffa7aa663b-70684.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "194650288848764929",
+          "name": "[Rw]Joel",
+          "discriminator": "3285",
+          "nickname": "Joel",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "993299279722577940",
+      "type": "Default",
+      "timestamp": "2022-07-03T23:36:42.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@isxxcong negative",
+      "author": {
+        "id": "194650288848764929",
+        "name": "[Rw]Joel",
+        "discriminator": "3285",
+        "nickname": "Joel",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\8a50003fad21536cc5ff2af47e488151-91912.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-1f3fb-346B9.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "510401329009524746",
+          "name": "isxxcong",
+          "discriminator": "0447",
+          "nickname": "Isaac",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "993299395443437668",
+      "type": "Default",
+      "timestamp": "2022-07-03T23:37:10.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm cc with Ang jw so I tested today",
+      "author": {
+        "id": "194650288848764929",
+        "name": "[Rw]Joel",
+        "discriminator": "3285",
+        "nickname": "Joel",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\8a50003fad21536cc5ff2af47e488151-91912.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "996646973237121085",
+      "type": "Default",
+      "timestamp": "2022-07-13T05:19:15.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Joseph remember to share with 61UWC, what was discussed and shared during the progress brief just now.",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "576216262611435521",
+          "name": "Joseph",
+          "discriminator": "5065",
+          "nickname": "Thia Huai Zhi (Joseph)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "996664605197738024",
+      "type": "Default",
+      "timestamp": "2022-07-13T06:29:19.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Admin there will now be an extra “G-suit fitment” section added into the BWC progress sheet!",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4C",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44c-35C6F.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "996673374694678568",
+      "type": "Reply",
+      "timestamp": "2022-07-13T07:04:09.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Updated",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "249431538402459658",
+          "name": "jrrrrr",
+          "discriminator": "9724",
+          "nickname": "Jun Rong",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "996664605197738024",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "996942897108746250",
+      "type": "Default",
+      "timestamp": "2022-07-14T00:55:08.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Consolidated list of those who will be taking exam on 18 July 2022*\n\n_*Airframe/Engine*_\n_Due AG+/MC/special arrangement for previous re-sit_\n\n1. LTA NG JUN RONG\n2. OCT YANG YIZHEN\n3. OCT ANSON KHUNG\n4. OCT TEO YU FEN\n\n_Due failure in first attempt_\n1. OCT LIM JUNWEI\n2. OCT TOH YI HUI\n3. OCT JOEL TAN XIN WEI\n4. OCT CEDRIC YONG JIN WEI\n\n_*Avionics*_\n1. OCT LIM WEI JUN KENNETH",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "996943223027150909",
+      "type": "Reply",
+      "timestamp": "2022-07-14T00:56:26.679+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "all participants for next mon’s exam to react. those participating but name is not reflected, let me know.",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "996942897108746250",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "996943975162331156",
+      "type": "Default",
+      "timestamp": "2022-07-14T00:59:26.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yh and jw update me on cpt D’s situation when able",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "997048398320513074",
+      "type": "Reply",
+      "timestamp": "2022-07-14T07:54:22.423+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do yall need me to pick out who did not react and text you one by one?",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "996942897108746250",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "997048853960339546",
+      "type": "Default",
+      "timestamp": "2022-07-14T07:56:11.056+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is the bunk too comfortable to the point you guys cannot check your message?",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997066685662105610",
+      "type": "Default",
+      "timestamp": "2022-07-14T09:07:02.465+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Seating plan as of today",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [
+        {
+          "id": "997066685469179924",
+          "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\unknown-404D5.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 55821
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997329247922311321",
+      "type": "Default",
+      "timestamp": "2022-07-15T02:30:22.186+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello guys will need your responses regarding SENSES.\n\n1. Cannot log in to SENSES at all. Put \uD83E\uDD21\n2. Cannot do Performance or Airframe/engine. Put \uD83D\uDC7B\n\n3. No access to module surveys. Put \uD83D\uDC79\n\n4. No issues. Put \uD83D\uDC4D\uD83C\uDFFB\n \n Please respond by lunch thanks a lot!! \uD83D\uDE2C\uD83D\uDE2C",
+      "author": {
+        "id": "535077404704636930",
+        "name": "Yeji Hwang",
+        "discriminator": "9475",
+        "nickname": "Mark [Admin 2]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\566fecf2747fec1251463170b2d69e16-D0883.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD21",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f921-66E87.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC79",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f479-45CF5.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC7B",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f47b-19270.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD37‍♂️",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f937-200d-2642-fe0f-A97E7.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "998518483459518545",
+      "type": "Default",
+      "timestamp": "2022-07-18T09:15:58.033+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Link for SENSES: https://senses.mis.defence.gov.sg/senses/web/home/TraineeLogin.do\n\nSenses default password - Last digit of NRIC with alpha (in cap) _ pass\n\nExp: S1234567Z = 567Z_pass\n\n\nSenses Survey Login\n\nUsername: NRIC\npassword: <last 4 digits of Nric and letter in caps>_pass\n\n\n\n___________________________________________\nEDS default password - Last digit of NRIC with alpha (in cap) birthday (mmdd)\n\nExp: S1234567Z / DOB: 08 Apr 1986\n\nPassword should be: 567Z0408",
+      "author": {
+        "id": "535077404704636930",
+        "name": "Yeji Hwang",
+        "discriminator": "9475",
+        "nickname": "Mark [Admin 2]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\566fecf2747fec1251463170b2d69e16-D0883.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999541985780178997",
+      "type": "Default",
+      "timestamp": "2022-07-21T05:03:00.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Below is the template in doc form from 193 BAGS that they used for their book review, and below is the guide in text form\n\n\n\nSUGGESTED STRUCTURE\n1. Introduce the book \na. title, author\n\n2. Theme\na. What is the main focus of This book?\nb. What question does the book address and discuss? Does the author take sides? Does the author sympathise with a particular viewpoint?\n\n3. Your opinion:\na. How does this book assist you as an airmen?\nb. How would you apply any new knowledge that you have learnt in your current context\n\nRate the book on a scale of 1-7, where 1 = dead boring and 7 = interesting and fascinating\n\nLastly, they also provided another source you can try to find your books from if you're having trouble: https://z-lib.org",
+      "author": {
+        "id": "535077404704636930",
+        "name": "Yeji Hwang",
+        "discriminator": "9475",
+        "nickname": "Mark [Admin 2]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\566fecf2747fec1251463170b2d69e16-D0883.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Z-Library. The world's largest ebook library.",
+          "url": "https://z-lib.org/",
+          "timestamp": null,
+          "description": "Contains 10,748,000+ books and 84,837,000+ articles for free.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\promo1200-124D3.png",
+            "width": 1200,
+            "height": 1200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999542077274718338",
+      "type": "Default",
+      "timestamp": "2022-07-21T05:03:21.816+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "535077404704636930",
+        "name": "Yeji Hwang",
+        "discriminator": "9475",
+        "nickname": "Mark [Admin 2]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\566fecf2747fec1251463170b2d69e16-D0883.png"
+      },
+      "attachments": [
+        {
+          "id": "999542076813352991",
+          "url": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\5_6127605145141249329-46BF0.docx",
+          "fileName": "5_6127605145141249329.docx",
+          "fileSizeBytes": 8297
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001989048178589826",
+      "type": "Default",
+      "timestamp": "2022-07-27T23:06:45.142+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good morning all, please be reminded to lock your bunk doors/lockers and ensure it is SBA standard before leaving everyday. Thank you.",
+      "author": {
+        "id": "270080732087582720",
+        "name": "Ky4ru",
+        "discriminator": "8549",
+        "nickname": "Kyan [Movement]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\cdd61ce7d46ea72f1ae0c596586c7ea1-B13FD.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1002195322157678592",
+      "type": "Default",
+      "timestamp": "2022-07-28T12:46:24.691+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello all,\n\nSafety Induction slides have been sent to Mr Peh via OSN and he replied to the email alr. So tmr help him to find the slide in his OSN computer (either from email or if he saved it out will be even easier). The email is sent from my OSN email.\n\n@Joseph I added a new slide after the cover slide to insert the heron photos. The header I put background. Check your slides tmr then shuffle it ard if necessary. \n\nAlso,  reminder that Mr Peh will be having a meeting at 0900H tmr in between safety induction lessons. He previously mentioned that he might task us to do something when he is away for the meeting. Rmb to do what he instruct before having fun and to settle down earlier before he come back if not he think we not doing what he tasked us to do.\n\nJust stage your hardworkingness (to reduce his nagging) to get an earlier book out timing yeah!\n\nFYSA! \uD83D\uDCAA for presentation tmr!",
+      "author": {
+        "id": "878600701222195220",
+        "name": "OLY",
+        "discriminator": "4402",
+        "nickname": "Li Ying [Admin]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-1f3fb-346B9.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "576216262611435521",
+          "name": "Joseph",
+          "discriminator": "5065",
+          "nickname": "Thia Huai Zhi (Joseph)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1002380468433469570",
+      "type": "Default",
+      "timestamp": "2022-07-29T01:02:07.003+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Admin ICs, what time can you guys meet me for the progress chart update?",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1002380940707897384",
+      "type": "Reply",
+      "timestamp": "2022-07-29T01:03:59.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "0940H @ LM Room is that okay?",
+      "author": {
+        "id": "535077404704636930",
+        "name": "Yeji Hwang",
+        "discriminator": "9475",
+        "nickname": "Mark [Admin 2]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\566fecf2747fec1251463170b2d69e16-D0883.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "249431538402459658",
+          "name": "jrrrrr",
+          "discriminator": "9724",
+          "nickname": "Jun Rong",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1002380468433469570",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "1002381558222684220",
+      "type": "Default",
+      "timestamp": "2022-07-29T01:06:26.829+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay",
+      "author": {
+        "id": "249431538402459658",
+        "name": "jrrrrr",
+        "discriminator": "9724",
+        "nickname": "Jun Rong",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1002434207752142899",
+      "type": "Default",
+      "timestamp": "2022-07-29T04:35:39.455+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hello, please refrain from using the accommodation block toilet now, thanks!",
+      "author": {
+        "id": "270080732087582720",
+        "name": "Ky4ru",
+        "discriminator": "8549",
+        "nickname": "Kyan [Movement]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\cdd61ce7d46ea72f1ae0c596586c7ea1-B13FD.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD21",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f921-66E87.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1002435421520793610",
+      "type": "Reply",
+      "timestamp": "2022-07-29T04:40:28.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you to @Hank @Ky4ru @sistersamuel @howcher for helping out to clean the toilet \n\nNow is super clean✨✨",
+      "author": {
+        "id": "581102502146211851",
+        "name": "Zhao_z_Zhi",
+        "discriminator": "4160",
+        "nickname": "Zhao Zhi [Cardinal]",
+        "color": "#00B2FF",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\747afeecece48250d199d1642bf40c62-C55C7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\1f44d-B3F5F.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\2764-02CD4.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "270080732087582720",
+          "name": "Ky4ru",
+          "discriminator": "8549",
+          "nickname": "Kyan [Movement]",
+          "isBot": false
+        },
+        {
+          "id": "642950492363948034",
+          "name": "sistersamuel",
+          "discriminator": "0025",
+          "nickname": "Samuel [Movement 2/Keys]",
+          "isBot": false
+        },
+        {
+          "id": "255968036681416714",
+          "name": "howcher",
+          "discriminator": "3602",
+          "nickname": "hao zhe [PT/Asset]",
+          "isBot": false
+        },
+        {
+          "id": "324720990108123139",
+          "name": "Hank",
+          "discriminator": "1921",
+          "nickname": "Sheng Han [Ration]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1002434207752142899",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    },
+    {
+      "id": "1002474984800796692",
+      "type": "Reply",
+      "timestamp": "2022-07-29T07:17:41.461+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Upload the file as: RANK_FULL NAME_195BAGS BOOK REVIEW",
+      "author": {
+        "id": "535077404704636930",
+        "name": "Yeji Hwang",
+        "discriminator": "9475",
+        "nickname": "Mark [Admin 2]",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "195 BAGS - ADMIN - general-admin [972848317476245584].json_Files\\566fecf2747fec1251463170b2d69e16-D0883.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "999541985780178997",
+        "channelId": "972848317476245584",
+        "guildId": "972846267820572703"
+      }
+    }
+  ],
+  "messageCount": 80
+}
